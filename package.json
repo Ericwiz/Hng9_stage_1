@@ -1,0 +1,28 @@
+{
+  "name": "hng9-stage-1-task",
+  "version": "1.0.0",
+  "description": "this the solution to the hng9 internship stage 1 task",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericwiz/Hng9_stage_1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "javascript"
+  ],
+  "author": "Agu Obumneme Wisdom (Numero Uno)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ericwiz/Hng9_stage_1/issues"
+  },
+  "homepage": "https://github.com/Ericwiz/Hng9_stage_1#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
